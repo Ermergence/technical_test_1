@@ -2,7 +2,7 @@
 
 Hello and welcome !
     This project is using Python 3.9.
-    You are free to use any external packages as needed.
+    You are free to use any external packages other than Pandas and Numpy.
 
     Implement the code needed to answer the following questions and if a value is requested print it into a text file :
     1. Parse the 2 CSV files in the data folder
